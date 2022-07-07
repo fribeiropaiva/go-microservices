@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "uuid": "981923jasdj9123asd",
+      "product": "Alface1",
+      "price": "1.99"
+    },
+    {
+      "uuid": "981923jaj9123asd",
+      "product": "Alface2",
+      "price": "2.99"
+    },
+    {
+      "uuid": "981923jasdj23asd",
+      "product": "Alface3",
+      "price": "3.99"
+    },
+    {
+      "uuid": "981923jasdj91sd",
+      "product": "Alface4",
+      "price": "4.99"
+    },
+    {
+      "uuid": "981923jasdjasd",
+      "product": "Alface5",
+      "price": "5.99"
+    }
+  ]
+}
